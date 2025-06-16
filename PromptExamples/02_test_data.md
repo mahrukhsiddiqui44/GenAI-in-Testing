@@ -1,5 +1,5 @@
 # 🟦 2. Prompt:
-# Generate 5 sets of test data for creating a new user account with fields: name, email, and phone number.
+ Generate 5 sets of test data for creating a new user account with fields: name, email, and phone number.
 
 # Test Data for New User Registration
 
