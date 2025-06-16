@@ -20,7 +20,6 @@
 ## 📸 Screenshot
 
 ![image](https://github.com/user-attachments/assets/cd6e1186-58ad-4c73-8480-f26673966e27)
-![image](https://github.com/user-attachments/assets/cd6e1186-58ad-4c73-8480-f26673966e27)
 
 
 ---
