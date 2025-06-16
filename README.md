@@ -35,9 +35,7 @@
 
 **Mahrukh Siddiqui**  
 Manual + Automation SQA | 4 years experience  
-📧 Email: mahrukhsiddiqui00@gmail.com  
-🌐 [GitHub Portfolio](https://github.com/mahrukhsiddiqui44/GenAI-in-Testing) | [LinkedIn](https://linkedin.com)
+📧 Email: mahrukhsiddiqui44@gmail.com  
+🌐 [GitHub Portfolio](https://github.com/mahrukhsiddiqui44/GenAI-in-Testing) | [LinkedIn](https://www.linkedin.com/in/mahrukh-siddiqui-a684a3152/)
 
----
 
-![Badge](https://img.shields.io/badge/Tested%20with-ChatGPT-brightgreen?logo=openai)
