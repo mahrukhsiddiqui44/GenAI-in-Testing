@@ -1,3 +1,6 @@
+# 🟦 1. Prompt:
+Generate test cases for the login functionality where the user enters a username and password.
+
 # Test Cases for Login Functionality
 
 1. ✅ Verify login with valid username and valid password  
