@@ -1,4 +1,5 @@
-# 🟦 3. Prompt:
+🟦 3. Prompt:
+ 
 Write a Selenium WebDriver script in Java to log into a website.
 
 import org.openqa.selenium.WebDriver;
