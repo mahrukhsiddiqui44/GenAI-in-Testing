@@ -19,7 +19,9 @@
 
 ## 📸 Screenshot
 
-![Use Case List](./Screenshots/ai_use_case_list.png)
+![image](https://github.com/user-attachments/assets/cd6e1186-58ad-4c73-8480-f26673966e27)
+![image](https://github.com/user-attachments/assets/cd6e1186-58ad-4c73-8480-f26673966e27)
+
 
 ---
 
